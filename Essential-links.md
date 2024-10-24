@@ -1,0 +1,6 @@
+https://docs.arbitrum.io/stylus/stylus-gentle-introduction
+https://arbitrum.notion.site/Arbitrum-Hacker-Toolkit-Stylus-and-more-375a142fcbee4e6a8c62bd0022f13138
+https://github.com/prestwich/stylus-permit/blob/main/src/erc20permit.rs
+https://stylus-by-example.org/applications/erc20
+https://github.com/OffchainLabs/cargo-stylus
+https://www.youtube.com/watch?v=CF1hLTGnByM
